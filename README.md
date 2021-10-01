@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/lucas-bernardino-de-sousa-b8707a1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-  ![Snake animation](https://github.com/rafaballerini/lucasiluminado/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucasiluminado/lucasiluminado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
