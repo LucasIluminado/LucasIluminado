@@ -2,7 +2,7 @@
 
 
 - 💻 Desenvolvedor Java FullStack Jr
-- 🎓 Formando na Generation Brasil
+- 🎓 Formando no Bootcamp da Generation Brasil
 - 🧑🏻 Pronome: He/Dele
 
 <div align="center">
