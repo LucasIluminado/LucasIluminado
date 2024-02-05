@@ -1,9 +1,9 @@
 ### Prazer! Meu nome é Lucas
 
 
-- 💻 Desenvolvedor Java FullStack Jr
-- 🎓 Formando no Bootcamp da Generation Brasil
-- 🧑🏻 Pronome: He/Dele
+- 💻 Estudante Análise e Desenvolvimento de Sistemas (ADS)
+- 🎓 Centro Universitário Senac Santo Amaro
+- 🧑🏻 Lucas Bernardino
 
 <div align="center">
   <a href="https://github.com/LucasIluminado">
